@@ -1,3 +1,3 @@
 # meal-app
 
-## link of page is :  https://ND057.github.io/meal-app/
+## link of page is : https://nd057.github.io/Meal-App-ND/
